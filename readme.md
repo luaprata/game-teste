@@ -60,7 +60,7 @@ Reagente Zero ainda está em fase de testes e balanceamento. Feedbacks são bem-
 
 - [Godot Engine 4.x](https://godotengine.org/)
 - Arte e conceito autorais
-- Café, paciência e muita alquimia
+- Amor aos games, paciência e muita alquimia
 
 ---
 
